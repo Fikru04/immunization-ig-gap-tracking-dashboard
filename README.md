@@ -41,7 +41,11 @@ At the time of the analysis reported in my conference abstract:
 - **28 work item categories** were identified.
 
 These are descriptive results from the gap-review process; they should not be interpreted as improvements caused solely by the dashboard.
+## Dashboard Preview
 
+![Public CDC immunization implementation guide Power BI dashboard](images/Page%201.png)
+
+*Page 1 — Home: keyword search, reported gaps, and dashboard navigation.*
 ## Public CDC Dashboard
 
 The dashboard is featured on the official CDC website:
