@@ -1,4 +1,4 @@
-# Modernizing Immunization Implementation Guide Gap Management with REDCap and Power BI
+ # Modernizing Immunization Implementation Guide Gap Management with REDCap and Power BI
 
 **CDC Public Health Informatics Fellowship Capstone | Fikru Mekonnen, MPH**
 
